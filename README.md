@@ -1,10 +1,10 @@
 # limpieza-data
 
-descargar y limpieza de una base de datos en python utilizando pandas.
+descargar y limpieza de una base de datos en python utilizando pandas. \n
 
-Carga de la base de datos .csv.
-Inspeccion de la base de dato para detectar defectos y puntos a limpiar.
-Estandarizacion de columnas.
+Carga de la base de datos .csv. \n
+Inspeccion de la base de dato para detectar defectos y puntos a limpiar. \n
+Estandarizacion de columnas. \n
 Correccion de tipos de datos incorrectamente registrados.
 Solucion, via eliminacion o imputacion dependiedo las particularidades.
 Estandarizacion de los valores/ consistencia de datos
